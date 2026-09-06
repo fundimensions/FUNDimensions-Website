@@ -1,14 +1,17 @@
 #my website design brief
 
 ##objective of the website
+
 ###tell the world who I am
 My name is Frank Martin. I live in Albuquerque, New Mexico now, but lived almost half my life in Santa Fe in the same state.
 
-I am single and 67 years old. I have been self-employed since 1990 in various technology roles, including music annd audio technology, but mostly in computer technology.
+I am single and 67 years old. I have been self-employed since 1990 in various technology roles, including video, music and audio technology, but mostly in computer technology.
 
-My degree is in Electronic Music from Berklee College of Music. I ran a recording studio and composed music for nearly tem years before leaving that field and taking on what might be considered "computer consulting" full-time.
+My degree is in Electronic Music from Berklee College of Music. I ran a recording studio and composed music for ten years before leaving that field and taking on what might be considered "computer consulting" full-time. At that time, starting in 1989, that meant site visits to troubleshoot and assist with computers (no networks). My customers were, and still are, primarily home offices and small businesses.
 
-The domain name for this website was invented as the name of fundraising database software that I created in 1991. That business is defunct now, but I kept the name regsitered and am using it for this personal website now. 
+So you might say I am a veteran computer help-desk and trainer-person with sidelines in network engineering, programming, cybersecurity, technical writing and now, web design.
+
+By the way, the domain name for this website was invented as the name of fundraising database software that I created in 1991. It lasted 19 years, but that business is defunct now. I kept the name registered and am using it for this personal website now. 
 
 ###timeline
 - where I am at in my life, and how I got here
@@ -20,7 +23,7 @@ The domain name for this website was invented as the name of fundraising databas
 - film noir
 - geopolitics, international relations, war and peace
 - liberty, justice and human flourishing
-- philosophy, especially ethics, ontology, epistemology and politics
+- phlosophy, especially ethics, ontology, epistemology and politics
 - Russian studies
 
 ###professional accomplishments
