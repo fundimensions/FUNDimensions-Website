@@ -1,14 +1,14 @@
 @font-face {
-  font-family: "InriaSans-Regular";
-  src: url("fonts/InriaSans-Regular.ttf") format("ttf");
+  font-family: "Inria Sans";
+  src: url("fonts/InriaSans-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "InriaSerif-Regular";
-  src: url("fonts/InriaSerif-Regular.ttf") format("ttf");
+  font-family: "Inria Serif";
+  src: url("fonts/InriaSerif-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -17,6 +17,7 @@
 body{
   font-family:InriaSerif-Regular;
 }
+
 h2{
   background-color:orange;
   font-family:InriaSans-Regular;
