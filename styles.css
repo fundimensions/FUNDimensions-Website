@@ -20,6 +20,12 @@ body{
 
 h2{
   background-color:coral;
-  font-family:Inria Sans, serif;
+  font-family:Inria Sans, sans-serif;
+}
+
+h3{
+font-family:Inria Sans, sans-serif;
+background-color:bisque;
+width:auto;
 }
 
