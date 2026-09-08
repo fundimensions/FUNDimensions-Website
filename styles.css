@@ -18,18 +18,17 @@ body{
   font-family:Inria Serif, serif;
 }
 
-h2{
-  background-color:coral;
+h2, h3, h4{
   font-family:Inria Sans, sans-serif;
 }
 
+h2{
+background-color:coral;
+}
+
 h3{
-font-family:Inria Sans, sans-serif;
 background-color:bisque;
 width:200px;
 }
 
-h4{
-  font-family:Inria Sans, sans-serif;
-}
 
